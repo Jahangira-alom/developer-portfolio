@@ -5,10 +5,13 @@ body{
 h1{
     font-size: 40px;
 }
+h2{
+    font-size: 30px;
+}
 .color{
     color:orange ;
 }
-section{
+.main{
     display: flex;
 }
 .section-1{
@@ -49,5 +52,24 @@ a{
 .right-border{
     background-image: url("images/dream-bg.png");
     background-repeat: no-repeat;
-   background-position: right;
+    background-position: right;
+  
+}
+.left-border{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.section-3{
+    width: 45%;
+    margin: 5%;
+    padding-left: 8px;
+    box-shadow: 20px 20px 40px rgb(46, 43, 43);
+    border-left: 10px solid red;
+}
+.new h3{
+    color: rgb(104, 104, 241);
+}
+.border{
+    border-left:10px solid rgb(43, 43, 247);
 }
