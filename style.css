@@ -73,3 +73,7 @@ a{
 .border{
     border-left:10px solid rgb(43, 43, 247);
 }
+.mar{
+    margin-left: 10px;
+    margin-bottom: 0px;
+}
