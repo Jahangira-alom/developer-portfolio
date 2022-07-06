@@ -21,6 +21,9 @@ h2{
 .section-1,img{
     width: 80%;
 }
+. picture{
+    border-radius: 50%;
+}
 a{
     text-align: none;
 }
